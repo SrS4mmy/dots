@@ -12,3 +12,16 @@
   <h1>dots aseli</h1>
   <p>Nyolong jir</p>
 </div>
+
+<div>
+# Prerequisites
+  - hyprland-git
+  - eww
+  - dunst
+  - rofi
+  - kitty
+  - waybar
+  - swaylock
+  - wlogout
+  - hyprpaper
+</div>
