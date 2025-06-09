@@ -24,4 +24,6 @@
   - swaylock
   - wlogout
   - hyprpaper
+  - brightnessctl 
+  - pamixer
 </div>
